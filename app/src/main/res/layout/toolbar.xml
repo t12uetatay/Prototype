@@ -6,7 +6,6 @@
     android:background="?colorSecondaryVariant"
     app:titleTextColor="?colorPrimary"
     app:title="@string/app_name"
-    app:navigationIcon="@drawable/ic_round_arrow_back_24"
     app:navigationIconTint="@color/primary_light">
 
 </com.google.android.material.appbar.MaterialToolbar>
